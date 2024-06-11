@@ -1,3 +1,19 @@
+Dashboard App
+
+Financial Dashboard to track my various sources of income and expenses to help visualize my budget as a broke university student...
+
+GOALS: 
+- Use Apple Wallet API to asynchronously update spreadsheet containing my expenses.
+- Create a simple AI model using the data from my spreadsheets to predict of I will go over or under budget
+- Create customizable budget settings to change goals if needed
+- Create a user authentication login page
+- Host and Deploy publicly
+
+Tech: Next.js, React.js, TypeScript, MongoDB
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
